@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Temprature Monitoring System.vcxproj" Id="43c9ed00-278a-4db0-a0b7-4d55d792e326" />
+</Solution>
